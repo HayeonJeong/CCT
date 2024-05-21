@@ -1,11 +1,26 @@
-# CCT (Compact Convolutional Transformers)
+# Project Title
 
-This Project is for implementing CCT (Compact Convolutional Transformers).
+- This project is for implementing [CCT (Compact Convolutional Transformers)](https://arxiv.org/pdf/2104.05704).
 
-[Paper] Escaping the Big Data Paradigm with Compact Transformers (arXiv, 2021)
+- [Paper] Escaping the Big Data Paradigm with Compact Transformers (arXiv, 2021)
+
+# Documentation
+
+- Detailed implementation steps and training results can be found [here](docs/example.pdf).
+
+![alt text](/home/hayeon/CCT/pdf_images/image-0.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-1.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-2.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-3.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-4.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-5.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-6.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-7.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-8.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-9.png)
+![alt text](/home/hayeon/CCT/pdf_images/image-10.png)
 
 # Reference
 - https://github.com/hyunwoongko/transformer/tree/master
-- config 파일 활용
-- 머신러닝 파이토치 다루기 기초 : https://wikidocs.net/book/9379
-
+- Using config files
+- Basics of Machine Learning with PyTorch: https://wikidocs.net/book/9379
