@@ -6,7 +6,7 @@
 
 # Documentation
 
-- Detailed implementation steps and training results can be found [here]([docs/example.pdf](https://github.com/HayeonJeong/CCT/blob/main/CCT_Implementation_and_Training.pdf)).
+- Detailed implementation steps and training results can be found [here](https://github.com/HayeonJeong/CCT/blob/main/CCT_Implementation_and_Training.pdf).
 
 ![alt text](pdf_images/image-0.png)
 ![alt text](pdf_images/image-1.png)
